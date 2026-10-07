@@ -1,0 +1,17 @@
+{
+  "name": "NSUT Connect",
+  "short_name": "NSUT Connect",
+  "description": "Student Community, Campus Notices, Offline Timetable & Lounge for Netaji Subhas University of Technology",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#faf7f5",
+  "theme_color": "#9b2c2c",
+  "icons": [
+    {
+      "src": "/logo.jpg",
+      "sizes": "192x192 512x512",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    }
+  ]
+}
